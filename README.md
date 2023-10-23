@@ -1,1 +1,1 @@
-remote_theme🇩🇲
+Theme: minima
